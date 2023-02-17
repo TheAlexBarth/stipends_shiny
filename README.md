@@ -1,5 +1,5 @@
 
-# stipends_shiny
+# Stipends Exploration Tool
 
 <!-- badges: start -->
 <!-- badges: end -->
